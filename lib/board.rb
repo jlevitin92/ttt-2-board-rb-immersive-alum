@@ -1,5 +1,5 @@
 # Define the variable board below.
 board = []
-board.push 9 times.do
-  " "
+9 times.do
+  board.push(" ")
 end
